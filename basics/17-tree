@@ -1,2 +1,2 @@
 #!/bin/bash
-M-x make-directory welcome to school
+mkdir {welcometo,school}
