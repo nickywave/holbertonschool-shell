@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -d*/. chmod ugo=+x
+chmod -R a+X .
